@@ -6,7 +6,7 @@ This Repository Contains a Sleek And Minimalist Landing Page Develop With React 
 
 ## FEATURES :
 
-- Responsive Design
+- Responsive Design (Mobile _ Tab _ Desktop)
 - Clean and Modern Layout
 - Lightweight and Fast
 
